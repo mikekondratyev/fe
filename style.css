@@ -1,0 +1,45 @@
+p {
+    width: 40%;
+}
+
+body {
+    background-image: url(https://image.stern.de/33184422/t/dK/v1/w1440/r1.7778/-/pinguin-kaiserpinguin.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+}
+
+.list1 {
+padding-left: 80%;
+
+
+}
+
+
+
+
+
+
+
+table 
+
+{
+   border: 1px solid black;
+ }
+ 
+ th {
+    border: 1px solid black;
+ }
+ 
+ td {
+    border: 1px solid black;
+ 
+ }
+ 
+img {
+    width: 30px;
+}
+
+
+
